@@ -24,7 +24,7 @@ role: Master of Control Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Northwestern Polytechnical University
-    # url: https://www.nwpu.edu.cn/
+    url: https://www.nwpu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

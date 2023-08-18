@@ -19,7 +19,7 @@ superuser: true
 
 # Role/position/tagline
 # role: Professor of Artificial Intelligence
-role: Master of Control Engineering
+role: a master student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -43,10 +43,10 @@ education:
     #   year: 2012
     - course: Master of Control Engineering
       institution: Northwestern Polytechnical University
-      year: 2021  2024
+      year: 2021 - 2024
     - course: Bachelor of Aerospace Science and Technology
       institution: Xidian University
-      year: 2017  2021
+      year: 2017 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -55,7 +55,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: liuzongjie@mail.nwpu.edu.cn  #'/#contact'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -88,6 +88,10 @@ highlight_name: true
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
 TEST!
+
+I am a master student at the Northwestern Polytechnical University supervised by Prof. Zhongjie Meng. Previously, 
+
+My research focuses on .
 
 
 {style="text-align: justify;"}

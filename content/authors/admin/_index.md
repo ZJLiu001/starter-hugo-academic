@@ -53,9 +53,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: liuzongjie@mail.nwpu.edu.cn  #'/#contact'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: liuzongjie@mail.nwpu.edu.cn  #'/#contact'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -87,11 +87,11 @@ highlight_name: true
 
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-TEST!
-
 I am a master student at the Northwestern Polytechnical University supervised by Prof. Zhongjie Meng. Previously, 
 
 My research focuses on .
+
+liuzongjie@mail.nwpu.edu.cn
 
 
 {style="text-align: justify;"}

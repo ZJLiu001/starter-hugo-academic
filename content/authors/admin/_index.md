@@ -43,10 +43,10 @@ education:
     #   year: 2012
     - course: Master of Control Engineering
       institution: Northwestern Polytechnical University
-      year: 2021 - 2024
+      year: 2021  2024
     - course: Bachelor of Aerospace Science and Technology
       institution: Xidian University
-      year: 2017 - 2021
+      year: 2017  2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

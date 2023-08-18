@@ -77,13 +77,13 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id：Publications
+    # id：Publications
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication
@@ -92,7 +92,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id：patents
+    # id：patents
     content:
       title: Patents  
       # text: |-
@@ -107,7 +107,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id：awards
+    # id：awards
     content:
       title: Awards  
       filters:

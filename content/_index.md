@@ -105,17 +105,17 @@ sections:
     design:
       columns: '2'
       view: citation
-  # - block: collection
-  #   id：awards
-  #   content:
-  #     title: Awards  
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: true
-  #   design:
-  #     columns: '2'
-  #     view: citation
+  - block: collection
+    # id：awards
+    content:
+      title: Awards  
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 
 
  # - block: features

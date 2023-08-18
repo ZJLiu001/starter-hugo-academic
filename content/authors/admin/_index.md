@@ -1,10 +1,14 @@
 ---
 # Display name
-title: AliceTTT WuTTT 吳恩達
+# title: AliceTTT WuTTT 吳恩達
+title: Zongjie Liu (刘宗杰)
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+# first_name: Alice
+# last_name: Wu
+# first_name: Zongjie
+# last_name: Liu
+
 
 # Status emoji
 status:

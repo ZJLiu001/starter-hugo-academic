@@ -100,20 +100,6 @@ sections:
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
       #   {{% /callout %}}
-      items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
       filters:
         folders:
           # - publication

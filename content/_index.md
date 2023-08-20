@@ -91,7 +91,7 @@ sections:
     design:
       columns: '2'
       view: citation
-      
+
   - block: collection
     id: patents
     content:
@@ -102,11 +102,15 @@ sections:
       #   {{% /callout %}}
       filters:
         folders:
-          - publication
+          # - publication
+          - patents
         exclude_featured: true
     design:
       columns: '2'
       view: citation
+
+
+
   - block: collection
     id: awards
     content:

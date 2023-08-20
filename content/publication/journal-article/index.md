@@ -1,14 +1,15 @@
 ---
-title: "An example journal article"
+title: "Fixed-time attitude control for aircraft with strongly constrained
+actuators"
 authors:
 - admin
 - Zhongjie Meng
 author_notes:
 # - "Equal contribution"
-- " "
+- 
 - "Corresponding author"
 date: "2023-07-28T00:00:00Z"
-doi: ""
+doi: "10.1016/j.ast.2023.108532"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-01T00:00:00Z"

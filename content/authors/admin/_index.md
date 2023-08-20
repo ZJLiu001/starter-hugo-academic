@@ -27,13 +27,13 @@ organizations:
     url: https://www.nwpu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ///////.
 
 # Interests to show in About widget
 interests:
-  - //Artificial Intelligence
-  - //Computational Linguistics
-  - //Information Retrieval
+  - A
+  - C
+  - I
 
 # Education to show in About widget
 education:
@@ -43,7 +43,7 @@ education:
     #   year: 2012
     - course: Master of Control Engineering
       institution: Northwestern Polytechnical University
-      year: 2021 - 2024
+      year: 2021 - Present
     - course: Bachelor of Aerospace Science and Technology
       institution: Xidian University
       year: 2017 - 2021

@@ -100,6 +100,10 @@ sections:
         - a
         - b
         - c
+      filters:
+        folders:
+          - patents
+        exclude_featured: true
     design:
       columns: '2'
       view: list

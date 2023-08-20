@@ -65,7 +65,7 @@ sections:
               * A
               * M
               * D
-        - title: Group of Rigid-Flexible Coupled Vehicle Control
+        - title: Group of Rigid-Flexible Coupled Aircraft Control
           company: Northwestern Polytechnical University
           # company_url: ''
           company_logo: org-x

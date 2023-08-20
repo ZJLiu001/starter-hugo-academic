@@ -19,7 +19,7 @@ superuser: true
 
 # Role/position/tagline
 # role: Professor of Artificial Intelligence
-role: a master student
+role: a graduate student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -31,9 +31,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - //Artificial Intelligence
+  - //Computational Linguistics
+  - //Information Retrieval
 
 # Education to show in About widget
 education:
@@ -87,11 +87,13 @@ highlight_name: true
 
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-I am a master student at the Northwestern Polytechnical University supervised by Prof. Zhongjie Meng. Previously, 
+I am currently pursuing a Master degree at the Northwestern Polytechnical University supervised by Prof. Zhongjie Meng. Previously, 
+
+
 
 My research focuses on .
 
-liuzongjie@mail.nwpu.edu.cn
+Contact: liuzongjie@mail.nwpu.edu.cn
 
 
 {style="text-align: justify;"}

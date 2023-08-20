@@ -22,7 +22,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 # publication: "*Journal of Source Themes, 1*(1)"
 publication: "*Aerospace Science and Technology, 141*(2023)"
-Contents lists
+# Contents lists
 
 publication_short: ""
 

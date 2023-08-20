@@ -65,7 +65,7 @@ sections:
               * A
               * M
               * D
-        - title: Professor of Semiconductor Physics
+        - title: Group of Rigid-Flexible Coupled Vehicle Control
           company: Northwestern Polytechnical University
           # company_url: ''
           company_logo: org-x

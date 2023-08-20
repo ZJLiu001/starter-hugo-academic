@@ -114,13 +114,17 @@ sections:
     id: awards
     content:
       title: Awards  
+      text: |-
+        - a
+        - b
+        - c
       filters:
         folders:
-          - publication
+          - awards
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: list
 
 
  # - block: features

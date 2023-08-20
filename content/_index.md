@@ -91,6 +91,7 @@ sections:
     design:
       columns: '2'
       view: citation
+      
   - block: collection
     id: patents
     content:

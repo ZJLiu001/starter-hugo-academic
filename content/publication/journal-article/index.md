@@ -26,18 +26,7 @@ publication: "*Aerospace Science and Technology, 141*(2023)"
 
 publication_short: ""
 
-abstract: This paper investigates a novel fixed-time attitude control method for trans-medium aircraft to ensure
-proper contact between the fuselage and the new medium before transmitting from different environmental
-mediums. How to achieve rapid corrective attitude adjustment from improper contact by utilizing
-the Reaction Control System with multiple discrete thrust gears that possess discrete thrusts with limited
-output has become a great challenge. To solve this problem, a novel fixed-time attitude controller is proposed.
-Firstly, a non-singular segmented terminal sliding mode surface is constructed to achieve a fixed
-convergence time and avoid the singularity problem. Subsequently, a command regulator is designed to
-cope with the derivation introduced by the strongly constrained actuators, which consists of the approximate
-thrust model and an auxiliary system based on a double power function. Furthermore, the stability
-analysis indicates the fixed time convergence stability of the closed-loop system and provides a clear
-calculation of the settling time. Finally, numerical comparison results and Monte Carlo simulations verify
-that the attitude can converge in a predetermined time from different initial states.
+abstract: This paper investigates a novel fixed-time attitude control method for trans-medium aircraft to ensure proper contact between the fuselage and the new medium before transmitting from different environmental mediums. How to achieve rapid corrective attitude adjustment from improper contact by utilizing the Reaction Control System with multiple discrete thrust gears that possess discrete thrusts with limited output has become a great challenge. To solve this problem, a novel fixed-time attitude controller is proposed. Firstly, a non-singular segmented terminal sliding mode surface is constructed to achieve a fixed convergence time and avoid the singularity problem. Subsequently, a command regulator is designed to cope with the derivation introduced by the strongly constrained actuators, which consists of the approximate thrust model and an auxiliary system based on a double power function. Furthermore, the stability analysis indicates the fixed time convergence stability of the closed-loop system and provides a clear calculation of the settling time. Finally, numerical comparison results and Monte Carlo simulations verify that the attitude can converge in a predetermined time from different initial states.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

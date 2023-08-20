@@ -100,11 +100,6 @@ sections:
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
       #   {{% /callout %}}
-      filters:
-        folders:
-          # - publication
-          - patents
-        exclude_featured: true
       items:
         - title: CEO
           company: GenCoin
@@ -119,6 +114,11 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+      filters:
+        folders:
+          # - publication
+          - patents
+        exclude_featured: true
     design:
       columns: '2'
       view: list

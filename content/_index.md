@@ -96,7 +96,7 @@ sections:
     id: patents
     content:
       title: Patents  
-      text: 
+      text: |-
         - a
         - b
         - c

@@ -1,6 +1,6 @@
 ---
 title: Controller Design for Trans-medium Aircraft with Strongly Constrained Actuators
-summary:   
+summary:  Design a corrective attitude control system to satisfy the safety of the fuselage of a trans-medium aircraft
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -27,14 +27,17 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
-Role: Core Member
-Aim: to conduct a corrective attitude control system by using strongly constrained  actuators (the Reaction Control System, RCS) to satisfy the safety of the fuselage of a trans-medium aircraft before transmitting from air to water.
+-Role: Core Member
+
+-Aim: to conduct a corrective attitude control system by using strongly constrained  actuators (the Reaction Control System, RCS) to satisfy the safety of the fuselage of a trans-medium aircraft before transmitting from air to water.
+
   *Finished simulation modeling of the object aircraft and the strongly constrained actuators;
   *Designed an efficient algorithm on thrust allocation to deal with discrete and restricted output of the RCS;
   *Proposed a control scheme to achieve rapid attitude adjustment and the performance of this scheme was verified by a Monte Carlo simulation experiment;
   *Completed an embedded code implementation of the whole algorithm.
-Outcome: produced a first author journal paper, Fixed-time attitude control for aircraft with strongly constrained actuators, which was accepted in Aerospace Science and Technology. 
+  
+-Outcome: produced a first author journal paper, Fixed-time attitude control for aircraft with strongly constrained actuators, which was accepted in Aerospace Science and Technology. 
 

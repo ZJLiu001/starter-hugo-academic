@@ -94,6 +94,19 @@ sections:
       columns: '2'
       view: citation
 
+  - block: collection
+    content:
+      title: Manuscript
+      text: |-
+        - Jianwei Ma, Zhongjie Meng, Zongjie Liu. Impedance-Based Stable Control for Autonomous Airship with Strong Wind-Gust Disturbance (Under Review)
+      filters:
+        folders:
+          - awards
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: list
+
   - block: portfolio
     id: projects
     content:

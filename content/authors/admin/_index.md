@@ -87,11 +87,9 @@ highlight_name: true
 
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-I am currently pursuing a Master degree at the Northwestern Polytechnical University supervised by Prof. Zhongjie Meng. Previously, 
+I am currently pursuing a Master degree at Northwestern Polytechnical University supervised by Prof. Zhongjie Meng. Previously, I got my bachelor's degree in Computer Science from Xidian University in 2021. 
 
-
-
-My research focuses on .
+My research focuses on automatic control of aircraft with constrained actuators.
 
 Reach out to me: liuzongjie AT mail.nwpu.edu.cn
 

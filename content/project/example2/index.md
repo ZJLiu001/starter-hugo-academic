@@ -1,7 +1,7 @@
 ---
-title: Controller Design for Autonomous Airships
-summary: Design a controllers to improve the control performance of a kind of airship  in strong winds.
-tags: 
+title: Controller Design for Trans-medium Aircraft with Strongly Constrained Actuators
+summary:  Design a attitude control system to satisfy the safety of the fuselage of a trans-medium aircraft
+tags:
   - Automatic Control
 date: '2016-04-27T00:00:00Z'
 
@@ -31,10 +31,11 @@ url_video: ''
 ---
 
 - Role: Core Member
-- Aim: to design controllers to improve the control performance of a kind of airship which consists of flexible airbags, ropes, and pods in strong winds.
+- Aim: to conduct a corrective attitude control system by using strongly constrained  actuators (the Reaction Control System, RCS) to satisfy the safety of the fuselage of a trans-medium aircraft before transmitting from air to water.
 - My contribution:
-  * Contributed to the design of a control command distribution system for longitudinal and lateral channels of an airship for heterogeneous actuators;
-  * Collected information and had a sharp insight into the concept of impedance control;
-  * Participated in the design of the controller for airship that can adapt to the strong wind-gust disturbances.
-- Outcome:
-Produced a third-author paper, Impedance-Based Stable Control for Autonomous Airship with Strong Wind-Gust Disturbance, which was Under Review.
+  * Finished simulation modeling of the object aircraft and the strongly constrained actuators;
+  * Designed an efficient algorithm on thrust allocation to deal with discrete and restricted output of the RCS;
+  * Proposed a control scheme to achieve rapid attitude adjustment and the performance of this scheme was verified by a Monte Carlo simulation experiment;
+  * Completed an embedded code implementation of the whole algorithm.
+- Outcome: Produced a first author journal paper, Fixed-time attitude control for aircraft with strongly constrained actuators, which was accepted in Aerospace Science and Technology. 
+

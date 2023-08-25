@@ -1,5 +1,5 @@
 ---
-title: Controller Design for Z Autonomous Airships
+title: Controller Design for Autonomous Airships
 summary: Design a controllers to improve the control performance of a kind of airship  in strong winds.
 tags: 
   - Automatic Control

@@ -53,20 +53,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Group of Aerospace Technology in Electronics
-          company: Xidian University
-          # company_url: ''
-          company_logo: org-gc
-          location: Xi'an, China
-          date_start: '2020-03-01'
-          date_end: '2021-06-01'
-          description: |2-
-              My research include:
-              * A
-              * M
-              * D
-        - title: Group of Rigid-Flexible Coupled Aircraft Control
-          company: Northwestern Polytechnical University
+        - title: Graduate Researcher 
+          company: Group of Rigid-Flexible Coupled Aircraft Control, Northwestern Polytechnical University
           # company_url: ''
           company_logo: org-x
           location:  Xi'an, China
@@ -74,9 +62,20 @@ sections:
           date_end: ''
           description:  |2-
               My research include:
-              * A
-              * M
-              * D
+              * Aautomatic control of aircraft 
+              * Robotic
+        - title: Underraduate Researcher 
+          company: Group of Aerospace Technology in Electronics, Xidian University
+          # company_url: ''
+          company_logo: org-gc
+          location: Xi'an, China
+          date_start: '2020-02-01'
+          date_end: '2021-03-01'
+          description: |2-
+              My research include:
+              * Hardware design
+              * Embedded system
+        
     design:
       columns: '2'
   - block: collection

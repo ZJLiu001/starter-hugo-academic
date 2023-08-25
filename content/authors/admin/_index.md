@@ -93,7 +93,11 @@ I am currently pursuing a Master degree at the Northwestern Polytechnical Univer
 
 My research focuses on .
 
-Contact: liuzongjie@mail.nwpu.edu.cn
+Reach out to me: liuzongjie@mail.nwpu.edu.cn
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
 
 
 {style="text-align: justify;"}

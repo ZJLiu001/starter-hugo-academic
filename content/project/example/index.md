@@ -30,18 +30,17 @@ url_video: ''
 # slides: example
 ---
 
--Role: Core Member
+- Role: Core Member
 
--Aim: to conduct a corrective attitude control system by using strongly constrained  actuators (the Reaction Control System, RCS) to satisfy the safety of the fuselage of a trans-medium aircraft before transmitting from air to water.
+- Aim: to conduct a corrective attitude control system by using strongly constrained  actuators (the Reaction Control System, RCS) to satisfy the safety of the fuselage of a trans-medium aircraft before transmitting from air to water.
 
--My contribution:
+- My contribution:
 
-*Finished simulation modeling of the object aircraft and the strongly constrained actuators;
+* Finished simulation modeling of the object aircraft and the strongly constrained actuators;
 -Designed an efficient algorithm on thrust allocation to deal with discrete and restricted output of the RCS;
 
-*Proposed a control scheme to achieve rapid attitude adjustment and the performance of this scheme was verified by a Monte Carlo simulation experiment;
+* Proposed a control scheme to achieve rapid attitude adjustment and the performance of this scheme was verified by a Monte Carlo simulation experiment;
+* Completed an embedded code implementation of the whole algorithm.
 
-*Completed an embedded code implementation of the whole algorithm.
-
--Outcome: produced a first author journal paper, Fixed-time attitude control for aircraft with strongly constrained actuators, which was accepted in Aerospace Science and Technology. 
+- Outcome: produced a first author journal paper, Fixed-time attitude control for aircraft with strongly constrained actuators, which was accepted in Aerospace Science and Technology. 
 

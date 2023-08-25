@@ -54,7 +54,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Researcher 
-          company: |-
+          company: |2-
             Group of Rigid-Flexible Coupled Aircraft Control
             Northwestern Polytechnical University
           # company_url: ''
@@ -65,9 +65,9 @@ sections:
           description:  |2-
               My research include:
               * Aautomatic control of aircraft 
-              * Robotic
-        - title: Underraduate Researcher 
-          company: |-
+              * Robotics
+        - title: Undergraduate Researcher 
+          company: |2-
             Group of Aerospace Technology in Electronics
             Xidian University
           # company_url: ''
@@ -132,9 +132,8 @@ sections:
     content:
       title: Patents  
       text: |-
-        - a
-        - b
-        - c
+        - A Control System and Method for a Tether Grabber Based on Polar Coordinates and Control Weights, CN202210190443.6
+        - Secondary dumping type micro-power wireless data binding device and method, CN202110812159.3
       filters:
         folders:
           - patents
@@ -150,9 +149,10 @@ sections:
     content:
       title: Awards  
       text: |-
-        - a
-        - b
-        - c
+        - First-class Scholarship for graduate student, Northwestern Polytechnical University (2021 & 2022)
+        - Third-class Scholarship for Academic Excellence, Xidian University (2018 & 2019 & 2020)
+        - 2nd prize (Top 5%, National Level), National Undergraduate Electronics Design Contest (2019)
+        - 2nd prize (Top 8%, Provincial Level), Shaanxi Province Engineering Colleges Intercollege League (2019)
       filters:
         folders:
           - awards

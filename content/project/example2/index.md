@@ -27,13 +27,14 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 - Role: Core Member
 - Aim: to design controllers to improve the control performance of a kind of airship which consists of flexible airbags, ropes, and pods in strong winds.
+- My contribution:
   * Contributed to the design of a control command distribution system for longitudinal and lateral channels of an airship for heterogeneous actuators;
   * Collected information and had a sharp insight into the concept of impedance control;
   * Participated in the design of the controller for airship that can adapt to the strong wind-gust disturbances.
 - Outcome:
-	Produced a third-author paper, Impedance-Based Stable Control for Autonomous Airship with Strong Wind-Gust Disturbance, which was Under Review.
+Produced a third-author paper, Impedance-Based Stable Control for Autonomous Airship with Strong Wind-Gust Disturbance, which was Under Review.

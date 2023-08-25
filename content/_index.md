@@ -54,7 +54,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Researcher 
-          company: Group of Rigid-Flexible Coupled Aircraft Control, Northwestern Polytechnical University
+          company: |-
+            Group of Rigid-Flexible Coupled Aircraft Control
+            Northwestern Polytechnical University
           # company_url: ''
           company_logo: org-x
           location:  Xi'an, China
@@ -65,7 +67,9 @@ sections:
               * Aautomatic control of aircraft 
               * Robotic
         - title: Underraduate Researcher 
-          company: Group of Aerospace Technology in Electronics, Xidian University
+          company: |-
+            Group of Aerospace Technology in Electronics
+            Xidian University
           # company_url: ''
           company_logo: org-gc
           location: Xi'an, China

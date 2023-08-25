@@ -24,16 +24,16 @@ role: a graduate student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Northwestern Polytechnical University
-    url: https://www.nwpu.edu.cn/
+    url: https://en.nwpu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ///////.
 
 # Interests to show in About widget
 interests:
-  - A
-  - C
-  - I
+  - Automatic Control
+  - Aircraft
+  - Robotics
 
 # Education to show in About widget
 education:

@@ -10,7 +10,7 @@ external_link: ''
 
 image:
   # caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  # focal_point: Smart
 
 # links:
 #   - icon: twitter

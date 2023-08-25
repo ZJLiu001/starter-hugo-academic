@@ -134,7 +134,7 @@ sections:
   
       view: showcase
       # For Showcase view, flip alternate rows? false
-      flip_alt_rows: true
+      flip_alt_rows: false
 
 
   - block: collection

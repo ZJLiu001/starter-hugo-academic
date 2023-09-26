@@ -31,9 +31,9 @@ bio: My research interests include Automatic Control and Robotics.
 
 # Interests to show in About widget
 interests:
-  - Automatic Control
-  - Aircraft
-  - Robotics
+  - Aircraft Control
+  - Intelligent Control
+  - Robotics  
 
 # Education to show in About widget
 education:
@@ -41,10 +41,10 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
     #   year: 2012
-    - course: Master of Control Engineering
+    - course: Master in Control Engineering
       institution: Northwestern Polytechnical University
       year: 2021 - Present
-    - course: Bachelor of Aerospace Science and Technology
+    - course: B.E in Aerospace Science and Technology
       institution: Xidian University
       year: 2017 - 2021
 
@@ -89,7 +89,7 @@ highlight_name: true
 
 I am currently pursuing a Master degree at Northwestern Polytechnical University supervised by Prof. Zhongjie Meng. Previously, I got my bachelor's degree in Aerospace Science and Technology from Xidian University in 2021. 
 
-My research focuses on automatic control of aircraft with constrained actuators.
+My research focuses on the control of aircraft with constrained actuators and intelligent control methods to improve performance.
 
 Reach out to me: liuzongjie AT mail.nwpu.edu.cn
 

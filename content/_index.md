@@ -159,6 +159,8 @@ sections:
     content:
       title: Awards  
       text: |-
+        - The CHEN Shilu Feitian Prize, Northwestern Polytechnical University	(2023)
+        - The Outstanding Graduate Student, Northwestern Polytechnical University	(2023)
         - First-class Scholarship for graduate student, Northwestern Polytechnical University (2021 & 2022)
         - Third-class Scholarship for Academic Excellence, Xidian University (2018 & 2019 & 2020)
         - 2nd prize (Top 5%, National Level), National Undergraduate Electronics Design Contest (2019)

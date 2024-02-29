@@ -42,10 +42,10 @@ education:
     #   institution: Stanford University
     #   year: 2012
     - course: Master in Control Engineering
-      institution: Northwestern Polytechnical University
+      institution: Northwestern Polytechnical University (985, 211)
       year: 2021 - Present
     - course: B.E in Aerospace Science and Technology
-      institution: Xidian University
+      institution: Xidian University (211)
       year: 2017 - 2021
 
 # Social/Academic Networking
@@ -87,7 +87,14 @@ highlight_name: true
 
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-I am currently pursuing a Master degree at Northwestern Polytechnical University supervised by Prof. Zhongjie Meng. Previously, I got my bachelor's degree in Aerospace Science and Technology from Xidian University in 2021. 
+I am currently pursuing a Master degree at Northwestern Polytechnical University supervised by Prof. Zhongjie Meng. I was awarded the National Second Prize in the National Undergraduate Electronics Design Contest in 2019, due to which I was recommended for exemption from admission to the Master's Program. I got my bachelor's degree in Aerospace Science and Technology from Xidian University in 2021. 
+
+
+
+
+
+
+
 
 My research focuses on the control of aircraft with constrained actuators and intelligent control methods to improve performance.
 

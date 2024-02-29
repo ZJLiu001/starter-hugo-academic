@@ -98,7 +98,7 @@ sections:
     content:
       title: Manuscript
       text: |-
-        - Zongjie Liu, Zhongjie Meng. A Deep Reinforcement Learning Attitude Control Approach for Aircraft with Strongly Constrained Actuators (Under Review)
+        - Zongjie Liu, Zhongjie Meng. A Deep Reinforcement Learning Attitude Control Method for Aircraft with Strongly Constrained Actuators (Under Review)
         - Zongjie Liu, Zhongjie Meng. Active Fault Tolerant Control for Aircraft with Actuator Loss of Effectiveness Faults (Under Review)
         - Jianwei Ma, Zhongjie Meng. Zongjie Liu. Autonomous Anti-Gustiness Control of Airships Based on Adaptive Impedance (Under Review)
       filters:

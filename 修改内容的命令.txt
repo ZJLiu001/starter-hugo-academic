@@ -1,0 +1,4 @@
+ git add .
+git commit -m "change the structer and pic"
+git push -u superman master
+

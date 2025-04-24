@@ -34,7 +34,7 @@ interests:
   - Aircraft Control
   - Intelligent Control
   - Robotics  
-  - TTTTTTTaaa
+  - TTTTTTTaaa555
 
 # Education to show in About widget
 education:
